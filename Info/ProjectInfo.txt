@@ -1,0 +1,11 @@
+Playwright Automation Project - A real-time test application
+npm init playwright@latest : Installed Playwright Test Runner for smoote running of tests
+
+
+Browser(Chrome, Firefox) -> Browser Engine(Core Part of browser) will have 2 subset 
+Browser Engine : 
+	1. Rendering Engine - Takes care of Rendering of HTML Page and elements
+	2. JavaScript Engine - Responsible of running and executing all JS
+
+POM(Page Objects Model) - 
+Landing on the home page and verifying it
